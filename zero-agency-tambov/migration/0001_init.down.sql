@@ -1,0 +1,2 @@
+DROP TABLE NewsCategories;
+DROP TABLE IF EXISTS News;
